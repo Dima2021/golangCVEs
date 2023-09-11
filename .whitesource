@@ -1,0 +1,7 @@
+{
+  "settingsInheritedFrom": "Dima2021/whitesource-config@master",
+  "remediateSettings": {
+    "workflowRules": {
+      "enabled": true
+    }
+}
